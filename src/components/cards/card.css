@@ -1,0 +1,12 @@
+.card-img{
+    height: 800px;
+    width: 90%;
+}
+
+.card-body{
+    width: 100%;
+}
+
+.card-title{
+    font-size: 2em;
+}
